@@ -67,7 +67,7 @@ but you don't! Why is that? Read the provided code carefully.
 ## My `binding.pry` Isn't Stopping the Code
 
 Sometimes, you may run into a situation where you've added `binding.pry` to the
-end of a method, but when running `learn`, it does not pause. There are two 
+end of a method, but when running `learn`, it does not pause. There are two
 potential causes of this:
 
 1. This issue _can_ sometimes happen if `binding.pry` is the _last_ line of code
