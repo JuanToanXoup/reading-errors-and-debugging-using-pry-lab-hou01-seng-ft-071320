@@ -5,6 +5,7 @@ def snake_it_up(string)
     10.loop do
       string += 's'
       return string
+    end
   else
     string
   end
